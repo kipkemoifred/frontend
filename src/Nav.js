@@ -12,6 +12,7 @@ function Nav() {
     <ul className="nav-links">
         <Link style={linkStyle} to='./about'><li>About</li></Link>
         <Link style={linkStyle} to='./contact'><li>Contact</li></Link>
+        <Link style={linkStyle} to='./orders'><li>Orders</li></Link>
         <Link style={linkStyle} to='./login'><li>Login</li></Link>
         <Link style={linkStyle} to='./register'><li>Register</li></Link>
         
